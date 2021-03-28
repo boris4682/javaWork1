@@ -1,0 +1,16 @@
+Reading file: C:\Users\user_pc\Desktop\магистратура\TP\lab6\src\com\company\files\SSD_HDD.csv
+This device has type is SSD; Name is Kingston 120GB SA400S37/120G; Volume:120; Speed:500; Connection interface: SATA III
+This device has type is SSD; Name is Silicon Power 120GB SP120GBSS3S55S25; Volume:120; Speed:550; Connection interface: SATA III
+This device has type is SSD; Name is ADATA 120GB ASU650SS-120GT-R; Volume:120; Speed:520; Connection interface: SATA III
+The file was read successfully: C:\Users\user_pc\Desktop\магистратура\TP\lab6\src\com\company\files\SSD_HDD.csv
+Reading file: C:\Users\user_pc\Desktop\магистратура\TP\lab6\src\com\company\files\SSD_HDD.csv
+
+class java.lang.NumberFormatException: For input string: "7200hfgh"
+This device has type is HDD; Name is Western Digital WD10EZEX; Volume:1000; Speed:0; Connection interface: SATA 6Gb/s
+This device has type is HDD; Name is Seagate Barracuda 1 TB ST1000DM010; Volume:1000; Speed:7200; Connection interface: SATA 6Gb/s
+This device has type is HDD; Name is Seagate SkyHawk 4 TB ST4000VX007; Volume:4000; Speed:7200; Connection interface: SATA 6Gb/s
+The file was read successfully: C:\Users\user_pc\Desktop\магистратура\TP\lab6\src\com\company\files\SSD_HDD.csv
+[This device has type is SSD; Name is Kingston 120GB SA400S37/120G; Volume:120; Speed:500; Connection interface: SATA III, This device has type is SSD; Name is Silicon Power 120GB SP120GBSS3S55S25; Volume:120; Speed:550; Connection interface: SATA III, This device has type is SSD; Name is ADATA 120GB ASU650SS-120GT-R; Volume:120; Speed:520; Connection interface: SATA III, This device has type is HDD; Name is Western Digital WD10EZEX; Volume:1000; Speed:0; Connection interface: SATA 6Gb/s, This device has type is HDD; Name is Seagate Barracuda 1 TB ST1000DM010; Volume:1000; Speed:7200; Connection interface: SATA 6Gb/s, This device has type is HDD; Name is Seagate SkyHawk 4 TB ST4000VX007; Volume:4000; Speed:7200; Connection interface: SATA 6Gb/s]Serialize to a file along the path: C:\Users\user_pc\Desktop\магистратура\TP\lab6\src\com\company\files\RecordingDevices.txt
+ Seriallization was successful; 
+Start deseriallize to path: C:\Users\user_pc\Desktop\магистратура\TP\lab6\src\com\company\files\RecordingDevices.txt
+ Deseriallized was success; 
